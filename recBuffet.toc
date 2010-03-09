@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: recBuffet
+## Notes: Food/water macro generator
+## Author: Recluse, Tekkub Stoutwrithe
+## Version: $Id: recBuffet.toc 598 2010-03-08 06:39:49Z john.d.mann@gmail.com $
+
+core.lua
